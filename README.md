@@ -38,11 +38,11 @@
 18- ساخت ربات تلگرام متصل به سایت
 
 # پیش‌نمایش
-<a href="https://demo.patrickstatus.com/?lang=fa">
-  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/preview1-fa.png" width="700" alt="Preview1">
+<a href="https://patrickstatus.com/">
+  <img src="https://github.com/PatrickStatus/Patrick/blob/478628c21e4837640d94eb606ed84938df5b83d1/image/status-site-screen-shot-1.jpg" width="700" alt="Preview1">
 </a>
-<a href="https://demo.patrickstatus.com/details/SWl5UzdWUGV0dXpCN3pjenIzQXVPY29Tdkl0Uy9UdSttamNQOW10NmR3ejhkcGY5KzdHZG90Z2RhRUl3L2xncnNYRWY1bkJHY05sNmxTbEVsekVkSzdPamVONUwya2EwanBSSm1hZERrejQ9?lang=fa">
-  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/preview2-fa.png" width="700" alt="Preview2">
+<a href="https://patrickstatus.com">
+  <img src="https://github.com/PatrickStatus/Patrick/blob/478628c21e4837640d94eb606ed84938df5b83d1/image/status-site-screen-shot-2.jpg" width="700" alt="Preview2">
 </a>
 
 # **آموزش نصب**
