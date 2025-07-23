@@ -1,4 +1,4 @@
-<div align="center"><a href="https://t.me/Patrick_status">
+<div align="center"><a href="https://github.com/PatrickStatus/Status-Site">
   <img src="https://github.com/PatrickStatus/Patrick/blob/3aed2de73fcc80b520a5e18bbbde9bc2b10b11fe/image/Status-Site-banner.png" width="700" alt="Image Description">
 </a>
 </div>
