@@ -1,12 +1,12 @@
 <div align="center"><a href="https://t.me/Patrick_status">
-  <img src="https://github.com/PatrickStatus/Status-Site/blob/main/images/Status-Site-banner.png" width="700" alt="Image Description">
+  <img src="https://github.com/PatrickStatus/Patrick/blob/3aed2de73fcc80b520a5e18bbbde9bc2b10b11fe/image/Status-Site-banner.png" width="700" alt="Image Description">
 </a>
 </div>
 
-# پاتریک چیست؟
-پاتریک یک سایت ساز و ربات ساز می باشد، با استفاده از پاتریک میتوانید **در کمتر از 10 ثانیه** یک وب سایت و ربات جهت نمایش مشخصات سرویس و باقی مانده آن بسازید تا کاربرانتون به راحتی با وارد کردن کانفینگ مشخصات کامل سرویس خود را به صورت کامل و آنلاین مشاهده بکنند.
+# سایت وضعیت چیست؟
+با استفاده از پاتریک میتوانید **در کمتر از 10 ثانیه** یک وب سایت و ربات جهت نمایش مشخصات سرویس و باقی مانده آن بسازید تا کاربرانتون به راحتی با وارد کردن کانفینگ مشخصات کامل سرویس خود را به صورت کامل و آنلاین مشاهده بکنند.
 
-# امکانات پاتریک
+# امکانات
 1- قابلیت اتصال به پنل های <a href="https://github.com/alireza0/x-ui">علیرضا</a> و <a href="https://github.com/MHSanaei/3x-ui">ثنایی</a> (تمام نسخه ها)
 <br>
 2- نمایش میزان دانلود و اپلود <br> 3- نمایش مجموع مصرف
