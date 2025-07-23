@@ -52,8 +52,6 @@
  # سایر
 [حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/tree/main?tab=security-ov-file)
 <br>
-[لایسنس](https://github.com/Kup1ng/Patrick?tab=MIT-1-ov-file)
-<br>
 [پیشنهاد، انتقاد، سوالات و مشکلات](https://t.me/PatrickSupport_bot)
 
 # تلگرام
